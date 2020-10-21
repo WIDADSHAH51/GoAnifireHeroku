@@ -1,5 +1,5 @@
-# Wrapper
-This is a Goanimate Legacy Video Maker Remake built in [Node.js](https://nodejs.org/)
+# GoAnifire Heroku
+Host it GoAnifire Heroku! [Node.js](https://nodejs.org/)
 
 # Server
 If you want too edit the Asset Server, then click [here](https://github.com/2Epik4u/Wrapper-Online-Assets).
